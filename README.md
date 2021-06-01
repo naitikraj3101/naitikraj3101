@@ -15,21 +15,17 @@ Hello, I Am Naitik Raj!
   
 <end>
 
-</details>
 
 
-<details>
 🗣 Most Used Languages
 <a href="https://github.com/naitikraj3101">
 <p align="center">
   <img width="350" height="125" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naitikraj3101&show_icons=true&title_color=30F229&icon_color=F2F407&text_color=F9F9F9&bg_color=000000&hide_border=true"" alt="Naitik's github stats">
 </p>
 </a>
-</details>
 
 
 
-<details>
 📊 GitHub Stats
 <a href="https://github.com/naitikraj3101">
 <p align="center">
@@ -38,4 +34,3 @@ Hello, I Am Naitik Raj!
 
 </p>
 </a>
-</details>
