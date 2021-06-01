@@ -13,7 +13,7 @@ jobs:
       - name: 🌀 Clone the Repo 🌀
         uses: actions/checkout@master
         with:
-          repository: naitikraj3101/BotStatus
+          repository: naitikraj3101/naitikbotstatus
       - name: 📀 Install dependency. 📀
         run: |
           pip install pytz telethon pygithub
