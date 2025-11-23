@@ -1,36 +1,112 @@
-Hello, I Am Naitik Raj!
+<div align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=soft&color=0:5A00FF,100:00E5FF&height=260&section=header&text=Naitik%20Raj&fontSize=75&fontColor=ffffff&animation=fadeIn&desc=Founder%20of%20HindBots.com&descSize=28&descAlignY=70" 
+    width="100%" 
+  />
+</div>
 
-<a href="https://github.com/naitikraj3101">
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=700&size=26&pause=1000&color=9F7CFF&center=true&vCenter=true&width=620&lines=Founder+HindBots+Ecosystem+🚀;Backend+Developer;Telegram+Bot+Engineer;Python+%7C+Automation+Enthusiast" />
+</h2>
+
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=naitikraj3101&color=blue&style=flat-square&label=Profile%20Views" width="156">
-<img src="https://img.shields.io/github/followers/naitikraj3101?style=for-the-badge"  alt="Naitik's followers">  
-<img src="https://img.shields.io/github/stars/naitikraj3101?style=for-the-badge" alt="Naitik's stars">
+  <a href="https://hindbots.com">
+    <img src="https://img.shields.io/badge/🌐_HindBots.com-5A00FF?style=for-the-badge&logo=firefox&logoColor=white&labelColor=050510" height="36"/>
+  </a>
+  <a href="https://t.me/hindbots">
+    <img src="https://img.shields.io/badge/📢_Telegram-HindBots_Updates-00E5FF?style=for-the-badge&logo=telegram&logoColor=white&labelColor=050510" height="36"/>
+  </a>
 </p>
-</a>
 
-<start>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=naitikraj3101&label=PROFILE%20VIEWS&color=5A00FF&style=flat-square" />
+</div>
 
+---
 
- 
-  
-<end>
+# 👨‍💻 About Me
+<div align="center">
+I am a Python-based backend developer and the creator of the <b><a href="HindBots.com">Hind Bots</a></b> Ecosystem.  
+My focus is on building efficient Telegram bots, automation tools, lightweight APIs, and scalable backend systems.
+</div>
 
+<br>
 
+<div align="center">
+  <b>Currently Working On:</b> High-speed telegram bots and rest apis.<br>
+  <b>Learning:</b> Advanced backend architecture and async systems.<br>
+</div>
 
-🗣 Most Used Languages
-<a href="https://github.com/naitikraj3101">
+---
+
+# 🛠 Technical Skills
+
+<div align="center">
+  <table>
+    <tr>
+      <td><b>Languages</b></td>
+      <td><b>Frameworks</b></td>
+      <td><b>Database</b></td>
+      <td><b>Tools / Platforms</b></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=python&theme=dark" />
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=flask,quart&theme=dark" />
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" />
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=ubuntu,vscode,github,heroku&theme=dark" />
+      </td>
+    </tr>
+  </table>
+</div>
+
 <p align="center">
-  <img width="350" height="125" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naitikraj3101&show_icons=true&title_color=30F229&icon_color=F2F407&text_color=F9F9F9&bg_color=000000&hide_border=true"" alt="Naitik's github stats">
+<b>Telegram Bot Libraries:</b>  
+<code>Telethon</code> • <code>Pyrogram</code> • <code>Aiogram</code>
 </p>
-</a>
 
 
 
-📊 GitHub Stats
-<a href="https://github.com/naitikraj3101">
+# 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=naitikraj3101&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naitikraj3101&theme=tokyonight&hide_border=true&background=020617" height="170" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naitikraj3101&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617" height="180"/>
+</div>
+
+---
+
+# 📬 Contact  
 <p align="center">
-<img width="460" height="300" src="https://github-readme-stats.vercel.app/api?username=naitikraj3101&count_private=true&show_icons=true&title_color=30F229&icon_color=F2F407&text_color=F9F9F9&bg_color=000000&hide_border=true">
-<img width="460" height="300" src="https://github-readme-streak-stats.herokuapp.com/?user=naitikraj3101&theme=chartreuse-dark&hide_border=True">
-
+  <a href="https://t.me/helpdesk_nrbot">
+    <img src="https://img.shields.io/badge/Telegram-@helpdesk_nrbot-00E5FF?style=flat&logo=telegram&logoColor=white&labelColor=050510" />
+  </a>
+  <a href="https://github.com/naitikraj3101">
+    <img src="https://img.shields.io/badge/GitHub-@naitikraj3101-5A00FF?style=flat&logo=github&logoColor=white&labelColor=050510" />
+  </a>
+  <a href="mailto:naitikraj3101@zohomail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=flat&logo=gmail&logoColor=white&labelColor=050510" />
+  </a>
 </p>
-</a>
+
+---
+
+<div align="center">
+  <img src="https://github.com/naitikraj3101/naitikraj3101/blob/main/github-contribution-grid-snake.svg" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=5A00FF&height=100&section=footer"/>
+</div>
