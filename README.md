@@ -96,7 +96,7 @@ My focus is on building efficient Telegram bots, automation tools, lightweight A
   <a href="https://github.com/naitikraj3101">
     <img src="https://img.shields.io/badge/GitHub-@naitikraj3101-5A00FF?style=flat&logo=github&logoColor=white&labelColor=050510" />
   </a>
-  <a href="mailto:naitikraj3101@zohomail.com">
+  <a href="mailto:naitikraj3101@zohomail.in">
     <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=flat&logo=gmail&logoColor=white&labelColor=050510" />
   </a>
 </p>
