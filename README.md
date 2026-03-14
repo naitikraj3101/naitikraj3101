@@ -26,7 +26,7 @@
 
 # 👨‍💻 About Me
 <div align="center">
-I am a Python-based backend developer and the creator of the <b><a href="HindBots.com">Hind Bots</a></b> Ecosystem.  
+I am a Python-based backend developer and the creator of the <b><a href="https://HindBots.com">Hind Bots</a></b> Ecosystem.  
 My focus is on building efficient Telegram bots, automation tools, lightweight APIs, and scalable backend systems.
 </div>
 
