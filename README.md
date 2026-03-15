@@ -53,26 +53,44 @@ My focus is on building efficient Telegram bots, automation tools, lightweight A
       <td align="center">
         <img src="https://skillicons.dev/icons?i=python&theme=dark" />
         <img src="https://skillicons.dev/icons?i=cpp&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=dart&theme=dark" />
       </td>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=flask,quart&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=flask&theme=dark" />
+        <img src="https://quart.palletsprojects.com/en/latest/_static/quart-logo.svg" width="48" height="48" />
+        <img src="https://aiogram.dev/assets/images/aiogram-logo.svg" width="48" height="48" />
+        <img src="https://codeberg.org/Lonami/Telethon/media/branch/v1/logo.svg" width="48" height="48" />
+        <img src="https://avatars.githubusercontent.com/u/34474300?s=200&v=4" width="48" height="48" />
       </td>
       <td align="center">
         <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" />
       </td>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=ubuntu,vscode,github,heroku&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=linux&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=ubuntu&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=kali&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=mint&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=arch&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=heroku&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=replit&theme=dark" />
+        <img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="48" height="48" />
+        <img src="https://skillicons.dev/icons?i=vscode&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=pycharm&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=arduino&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=github&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=postman&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=stackoverflow&theme=dark" />
       </td>
     </tr>
   </table>
 </div>
 
-<p align="center">
+<!-- <p align="center">
 <b>Telegram Bot Libraries:</b>  
 <code>Telethon</code> • <code>Pyrogram</code> • <code>Aiogram</code>
-</p>
+</p> -->
 
-
+---
 
 # 📊 GitHub Analytics
 
