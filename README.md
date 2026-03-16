@@ -54,6 +54,7 @@ My focus is on building efficient Telegram bots, automation tools, lightweight A
         <img src="https://skillicons.dev/icons?i=python&theme=dark" />
         <img src="https://skillicons.dev/icons?i=cpp&theme=dark" />
         <img src="https://skillicons.dev/icons?i=dart&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=php&theme=dark" />
       </td>
       <td align="center">
         <img src="https://skillicons.dev/icons?i=flask&theme=dark" />
