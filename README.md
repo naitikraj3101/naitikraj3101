@@ -151,7 +151,7 @@ I design systems that are <b>fast ⚡ scalable 📈 reliable 🛠️</b>
 
 <!-- 🐍 SNAKE -->
 <div align="center">
-  <img src="https://github.com/naitikraj3101/naitikraj3101/blob/main/github-contribution-grid-snake.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/naitikraj3101/naitikraj3101/output/github-contribution-grid-snake.svg" />
 </div>
 
 <!-- FOOTER -->
