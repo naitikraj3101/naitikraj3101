@@ -136,7 +136,7 @@ I design systems that are <b>fast ⚡ scalable 📈 reliable 🛠️</b>
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="https://instagram.com/nfornaitik">
+  <a href="https://instagram.com/naitikrajop">
     <img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="40" />
   </a>
   <a href="https://github.com/naitikraj3101">
