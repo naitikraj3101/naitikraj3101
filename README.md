@@ -33,14 +33,31 @@ Python • Telegram Bots • APIs • DSA • Async Programming
 <div align="center">
 
 ### 🧩 Languages
-<img src="https://skillicons.dev/icons?i=python,cpp,php&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,cpp,php,dart&theme=dark" />
 
 <br><br>
 
 ### ⚙️ Frameworks & Libraries
-<img src="https://skillicons.dev/icons?i=flask&theme=dark" />
-<img src="https://raw.githubusercontent.com/aiogram/aiogram/dev-3.x/docs/_static/logo.png" width="45" title="Aiogram"/>
-<img src="https://codeberg.org/Lonami/Telethon/media/branch/v1/logo.svg" width="45" title="Telethon"/>
+<a href="https://github.com/pallets/flask" title="Flask">
+  <img src="https://skillicons.dev/icons?i=flask&theme=dark" alt="Flask Logo"/>
+</a>
+
+<a href="https://github.com/aiogram/aiogram" title="Aiogram">
+  <img src="https://raw.githubusercontent.com/aiogram/aiogram/dev-3.x/docs/_static/logo.png" 
+       width="45" alt="Aiogram Logo"/>
+</a>
+
+<a href="https://codeberg.org/Lonami/Telethon" title="Telethon">
+  <img src="https://codeberg.org/Lonami/Telethon/media/branch/v1/logo.svg" 
+       width="45" alt="Telethon Logo"/>
+</a>
+
+<a href="https://github.com/pyrogram/pyrogram" title="Pyrogram">
+  <img src="https://raw.githubusercontent.com/pyrogram/artwork/master/artwork/pyrogram-logo.png" 
+       height="60" width="45" alt="Pyrogram Logo"/>
+</a>
+
+
 
 <br><br>
 
